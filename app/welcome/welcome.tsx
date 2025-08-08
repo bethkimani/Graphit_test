@@ -69,7 +69,7 @@ const resources = [
   },
   {
     href: "https://rmx.as/discord",
-    text: "Join Discord",
+    text: "Join Discord PROGRAM",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
