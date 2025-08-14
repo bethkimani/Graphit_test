@@ -22,7 +22,7 @@ export function Welcome() {
         <div className="max-w-[300px] w-full space-y-6 px-4">
           <nav className="rounded-3xl border border-gray-200 p-6 dark:border-gray-700 space-y-4">
             <p className="leading-6 text-gray-700 dark:text-gray-200 text-center">
-              What&apos;s next react and react Devops and what is good with devops course and edureka nad best research is the best source?
+              What&apos;s next react and react Devops and what is good with devops course and edureka nad best research is the best source,and github?
             </p>
             <ul>
               {resources.map(({ href, text, icon }) => (
